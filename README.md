@@ -26,6 +26,20 @@ Le projet exploite les données de vente afin de suivre les indicateurs clés de
 - **Recommandations :** aide à l'identification des catégories nécessitant une attention commerciale.
 - **Exportation :** téléchargement des données filtrées.
 
+## 🖥️ Aperçu de l'application
+
+### 1. Dashboard principal
+![Dashboard](screenshots/dashboard.png)
+
+### 2. Analyses commerciales
+![Analyses commerciales](screenshots/analyses.png)
+
+### 3. Détection et Machine Learning
+![Machine Learning](screenshots/machine_learning.png)
+
+### 4. Filtres interactifs
+![Filtres](screenshots/filtres.png)
+
 ## 🧰 Technologies utilisées
 
 - Python
